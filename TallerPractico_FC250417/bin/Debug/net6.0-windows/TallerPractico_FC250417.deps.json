@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TallerPractico_FC250417/1.0.0": {
+        "runtime": {
+          "TallerPractico_FC250417.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TallerPractico_FC250417/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
