@@ -21,7 +21,7 @@ namespace TallerPractico_FC250417
         }
         public bool EsDestacado()
         {
-            if (Promedio >= 8.0)
+            if (Promedio >=  8.0)
             {
                 return true;
             }
