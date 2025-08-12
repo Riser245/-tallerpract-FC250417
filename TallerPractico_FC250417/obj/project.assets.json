@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Parcial 1\\Taller1\\TallerPractico_FC250417\\obj\\TallerPractico_FC250417\\TallerPractico_FC250417.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Source\\Repos\\-tallerpract-FC250417\\TallerPractico_FC250417\\TallerPractico_FC250417.csproj",
       "projectName": "TallerPractico_FC250417",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\Parcial 1\\Taller1\\TallerPractico_FC250417\\obj\\TallerPractico_FC250417\\TallerPractico_FC250417.csproj",
+      "projectPath": "C:\\Users\\usuario\\Source\\Repos\\-tallerpract-FC250417\\TallerPractico_FC250417\\TallerPractico_FC250417.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\Parcial 1\\Taller1\\TallerPractico_FC250417\\obj\\TallerPractico_FC250417\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Source\\Repos\\-tallerpract-FC250417\\TallerPractico_FC250417\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

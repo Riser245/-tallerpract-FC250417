@@ -16,3 +16,21 @@ C:\Users\usuario\Desktop\Parcial 1\Taller1\TallerPractico_FC250417\obj\TallerPra
 C:\Users\usuario\Desktop\Parcial 1\Taller1\TallerPractico_FC250417\obj\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.pdb
 C:\Users\usuario\Desktop\Parcial 1\Taller1\TallerPractico_FC250417\obj\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Parcial 1\Taller1\TallerPractico_FC250417\obj\TallerPractico_FC250417\obj\Debug\net6.0-windows\ref\TallerPractico_FC250417.dll
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\bin\Debug\net6.0-windows\TallerPractico_FC250417.exe
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\bin\Debug\net6.0-windows\TallerPractico_FC250417.deps.json
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\bin\Debug\net6.0-windows\TallerPractico_FC250417.runtimeconfig.json
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\bin\Debug\net6.0-windows\TallerPractico_FC250417.dll
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\bin\Debug\net6.0-windows\TallerPractico_FC250417.pdb
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.csproj.AssemblyReference.cache
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.Estudiantes.resources
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.Properties.Resources.resources
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.csproj.GenerateResource.cache
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.dll
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\refint\TallerPractico_FC250417.dll
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.pdb
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\TallerPractico_FC250417.genruntimeconfig.cache
+C:\Users\usuario\Source\Repos\-tallerpract-FC250417\TallerPractico_FC250417\obj\Debug\net6.0-windows\ref\TallerPractico_FC250417.dll
